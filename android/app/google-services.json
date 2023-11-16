@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915267542089",
+    "project_id": "signin-example-bcb22",
+    "storage_bucket": "signin-example-bcb22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915267542089:android:217b4e0b516c030b62b398",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_anx5e14WZ7cDbjvcPeZ4022m-vrGmN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
